@@ -16,7 +16,7 @@ It also gives a better readability and fast understanding, for the developer, as
 
 Thread safety means to not have multiple threads accessing the same variable at the same time. 2 thread might try to set a variable at the same time, which could cause a race condition. These timings issues are hard to find and easy to make, if thread safety is not implemented.
 
-Thread safety can be accomplised by, among others, using the keyword synchronized (java), using a mutex (c++, possible others) and using atomics (java)
+Thread safety can be accomplised by, among others, using the keyword synchronized (java), using a mutex (c++, possible others) or using atomics (java)
 
 ### 3.4 Encapsulation
 
@@ -24,6 +24,9 @@ Encapsulation is the concept of hiding data / variables inside classes, accessin
 
 ### 3.5 Asynchronous vs. synchronous programming
 
-
+Asynchronous code makes it possible to run multiple computational tasks at the same time.  
+I believe the best way to illustrate this, is by using a picture from StackOverflow.  
+![](assets/async.png)
 
 ### 3.6 Transaction concept
+
