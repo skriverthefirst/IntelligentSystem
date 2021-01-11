@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9A7en/4anrKaR8laUyXxigSHpSog2LZofuk3nWFbYzvatqNQpZF5m6k63pUk0FxgjZ1lTe+ovNOJhDWo+NhiBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skriver\\Desktop\\IntelligentSystem\\Programmering\\1.3\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skriver\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\Skriver\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

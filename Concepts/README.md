@@ -27,6 +27,3 @@ Encapsulation is the concept of hiding data / variables inside classes, accessin
 Asynchronous code makes it possible to run multiple computational tasks at the same time.  
 I believe the best way to illustrate this, is by using a picture from StackOverflow.  
 ![](assets/async.png)
-
-### 3.6 Transaction concept
-
